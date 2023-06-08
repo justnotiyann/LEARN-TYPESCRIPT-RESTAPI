@@ -1,0 +1,1 @@
+export type StringOrNum = string | number
